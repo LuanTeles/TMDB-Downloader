@@ -1280,7 +1280,6 @@ SCED53117 | Bonus Demo 9 [Old]
 SCED53116 | Bonus Demo 9 [You]
 SLES55007 | Boogie
 SLUS21681 | Boogie
-MULTI.ELF | Boot file for some games
 SCES51083 | Borussia Dortmund Club Football - Saison 20032004
 SLES51083 | Borussia Dortmund Club Football - Saison 20032004
 SLPS65617 | Bouken Jidai Katsugeki - Goemon (Dendou Collection)
@@ -5715,9 +5714,7 @@ SLPS20457 | Hissatsu Pachislo Evolution 2 - Oso MatsuKun
 SLPS20429 | Hissatsu Pachislot Ninja Hattori Kun V
 SLPM66113 | Hissatsu UraKagyou
 SLPM66120 | Hissatsu UraKagyou
-SLPS25862 | Hisshou Pachinko - PachiSlot Kouryoku Series Vol.05 -
- CR Neon Genesis Evangelion Sekandoinpakuto &amp; Pachislot Neon Genesis
- Evangelion [Special Price Edition]
+SLPS25862 | Hisshou Pachinko - PachiSlot Kouryoku Series Vol.05 - CR Neon Genesis Evangelion Sekandoinpakuto &amp; Pachislot Neon Genesis Evangelion [Special Price Edition]
 SLPS25861 | Hisshou Pachinko - PachiSlot Kouryoku Series Vol.10 [Special Price Edition]
 SLPS25813 | Hisshou Pachinko - PachiSlot Kouryoku Series Vol.11 - Shinseiki Evangelion - Magokoro o, Kimi ni
 SLPS25565 | Hisshou Pachinko Kouryoku Series Vol.1 - CR Shinseiki Evangelion
@@ -11859,9 +11856,6 @@ SCES53363 | Shin Megami Tensei - Lucifer's Call
 SLES53363 | Shin Megami Tensei - Lucifer's Call
 SLUS28045 | Shin Megami Tensei - Nocturne [Trade Demo]
 SLUS20911 | Shin Megami Tensei - Nocturne
-PERSONA-01 | Shin Megami Tensei - Persona 3 (Konami Style Special Edition)
-PERSONA-03 | Shin Megami Tensei - Persona 3 FES (Append, Konami Style Special Edition)
-PERSONA-02 | Shin Megami Tensei - Persona 3 FES (Independant Starting Version) (Konami Style Special Edition)
 SLES55354 | Shin Megami Tensei - Persona 3 FES
 SLUS21621 | Shin Megami Tensei - Persona 3 FES
 SLUS28068 | Shin Megami Tensei - Persona 3 FES
@@ -15527,7 +15521,7 @@ SLPM66087 | Winning Post 7
 KOEI00015 | Winning Post Kouryaku Box
 SLPM55253 | Winning Post World 2010
 SLPM55150 | Winning Post World
-SONY&nbsp;ID | Winter Sports - The Uktimate Challenge 2008</td><td><center></center></td><td><center></center></td><td><center><font size="+2">✔</font></center></td><td><center><font size="+2">✔</font></center></td><td><center><font size="+2">✔</font></center></td><td><center>SLES 54940</center>
+SLES54940 | SONY&nbsp;ID | Winter Sports - The Ultimate Challenge 2008
 SLUS21849 | Winter Sports 2 - The Ultimate Challenge
 SLES54939 | Winter Sports 2008 - The Ultimate Challenge
 SLES54940 | Winter Sports 2008 - The Ultimate Challenge
